@@ -1,0 +1,33 @@
+가상환경 설정
+
+pip install djangorestframework
+django-admin startproject proj
+
+settings.py에서 installed apps 설정 
+'rest_framework',
+
+cd proj
+python manage.py startapp mystorage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
